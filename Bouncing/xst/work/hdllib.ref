@@ -1,0 +1,10 @@
+AR debouncer2 debouncer2 /home/ise/SVGA/SVGA/debouncer2.vhdl sub00/vhpl05 1735063808
+EN enxms NULL /home/ise/SVGA/SVGA/ENxms.vhdl sub00/vhpl02 1735063805
+EN debouncer2 NULL /home/ise/SVGA/SVGA/debouncer2.vhdl sub00/vhpl04 1735063807
+AR raster raster /home/ise/SVGA/SVGA/raster.vhdl sub00/vhpl01 1735063804
+AR rotary rotary /home/ise/SVGA/SVGA/rotary.vhdl sub00/vhpl07 1735063810
+EN rotary NULL /home/ise/SVGA/SVGA/rotary.vhdl sub00/vhpl06 1735063809
+EN raster NULL /home/ise/SVGA/SVGA/raster.vhdl sub00/vhpl00 1735063803
+AR enxms enxms /home/ise/SVGA/SVGA/ENxms.vhdl sub00/vhpl03 1735063806
+EN svga NULL /home/ise/SVGA/SVGA/SVGA.vhdl sub00/vhpl08 1735063811
+AR svga behavioral /home/ise/SVGA/SVGA/SVGA.vhdl sub00/vhpl09 1735063812

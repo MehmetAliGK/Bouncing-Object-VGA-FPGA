@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">Inc</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">Dec</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">DBP</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SVGA</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">ROTP</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SVGA</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="524" delta="old" >All outputs of the instance &lt;<arg fmt="%s" index="1">DBP</arg>&gt; of the block &lt;<arg fmt="%s" index="2">Debouncer2</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="3">SVGA</arg>&gt;.
+This instance will be removed from the design along with all underlying logic
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">ROTP/Inc</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SVGA</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">ROTP/pAB_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SVGA</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">ROTP/pAB_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SVGA</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">ROTP/Dec</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SVGA</arg>&gt;.
+</msg>
+
+</messages>
+

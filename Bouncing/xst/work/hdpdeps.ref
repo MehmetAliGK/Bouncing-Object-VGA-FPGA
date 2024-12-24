@@ -1,0 +1,28 @@
+V3 19
+FL /home/ise/SVGA/SVGA/debouncer2.vhdl 2024/11/27.18:04:04 P.20131013
+EN work/Debouncer2 1735063807 FL /home/ise/SVGA/SVGA/debouncer2.vhdl \
+      PB ieee/std_logic_1164 1381692176
+AR work/Debouncer2/Debouncer2 1735063808 \
+      FL /home/ise/SVGA/SVGA/debouncer2.vhdl EN work/Debouncer2 1735063807
+FL /home/ise/SVGA/SVGA/ENxms.vhdl 2024/11/27.18:01:41 P.20131013
+EN work/ENxms 1735063805 FL /home/ise/SVGA/SVGA/ENxms.vhdl PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/ENxms/ENxms 1735063806 \
+      FL /home/ise/SVGA/SVGA/ENxms.vhdl EN work/ENxms 1735063805
+FL /home/ise/SVGA/SVGA/raster.vhdl 2024/11/27.18:03:06 P.20131013
+EN work/raster 1735063803 FL /home/ise/SVGA/SVGA/raster.vhdl \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/raster/raster 1735063804 \
+      FL /home/ise/SVGA/SVGA/raster.vhdl EN work/raster 1735063803
+FL /home/ise/SVGA/SVGA/rotary.vhdl 2024/11/27.20:07:23 P.20131013
+EN work/Rotary 1735063809 FL /home/ise/SVGA/SVGA/rotary.vhdl \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Rotary/Rotary 1735063810 \
+      FL /home/ise/SVGA/SVGA/rotary.vhdl EN work/Rotary 1735063809
+FL /home/ise/SVGA/SVGA/SVGA.vhdl 2024/12/24.18:09:57 P.20131013
+EN work/SVGA 1735063811 FL /home/ise/SVGA/SVGA/SVGA.vhdl PB ieee/std_logic_1164 1381692176 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179 PB ieee/NUMERIC_STD 1381692181
+AR work/SVGA/Behavioral 1735063812 \
+      FL /home/ise/SVGA/SVGA/SVGA.vhdl EN work/SVGA 1735063811 CP raster CP ENxms \
+      CP Debouncer2 CP Rotary

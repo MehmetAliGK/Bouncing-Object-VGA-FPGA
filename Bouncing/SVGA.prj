@@ -1,0 +1,5 @@
+vhdl work "rotary.vhdl"
+vhdl work "raster.vhdl"
+vhdl work "ENxms.vhdl"
+vhdl work "debouncer2.vhdl"
+vhdl work "SVGA.vhdl"
